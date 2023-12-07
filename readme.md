@@ -45,7 +45,7 @@ alrededor de 6 segundos en realizar todas las acciones antes de realizar el soft
     python main.py
 
 ## Demostracion en Video
-[![Demo del Pokémon Shiny Finder](https://github.com/Arnovis27/Shiny_Hunting_Estatico/blob/master/prueba/1207.mp4)
+[![Demo del Pokémon Shiny Finder](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wikidex.net%2Fwiki%2FPok%25C3%25A9mon_Esmeralda&psig=AOvVaw3OwtW9d5AGz9YZu7KNNWop&ust=1702066029147000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDOs56Q_oIDFQAAAAAdAAAAABAD)](https://youtu.be/Qk6nX8HbVF8)
 
 ## Contribuciones  
 ¡Contribuciones son bienvenidas! Si encuentras algún problema o tienes alguna mejora, no dudes en abrir un issue o enviar un pull request.
