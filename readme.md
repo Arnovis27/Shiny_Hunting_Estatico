@@ -32,13 +32,20 @@ alrededor de 6 segundos en realizar todas las acciones antes de realizar el soft
     ```bash
     pip install -r requirements.txt
 
-3. **Configuracion del sprite**  
-    -Asegúrate de proporcionar la ruta correcta del sprite de Pokémon Shiny en ´main.py´. Esto es crucial para el reconocimiento preciso.
+3. **Configuracion ruta del juego y Rom**
+    - Dentro del archivo ´funciones.py´ encontraras dos variables indispensables para colocar la ubicacion de la ruta donde se encuentra
+    la Rom del juego (ROM_PATH) y el .exe del emulador (EMULATOR_PATH) 
+
+4. **Configuracion del sprite**  
+    - Asegúrate de proporcionar la ruta correcta del sprite de Pokémon Shiny en ´main.py´. Esto es crucial para el reconocimiento preciso.
     Guiate del que encuetras en la carpeta Imagenes con nombre Estatico.PNG
 
-4. **Ejecuta el programa**
+5. **Ejecuta el programa**
     ```bash
     python main.py
+
+## Demostracion en Video
+[![Demo del Pokémon Shiny Finder](https://github.com/Arnovis27/Shiny_Hunting_Estatico/blob/master/prueba/1207.mp4)
 
 ## Contribuciones  
 ¡Contribuciones son bienvenidas! Si encuentras algún problema o tienes alguna mejora, no dudes en abrir un issue o enviar un pull request.

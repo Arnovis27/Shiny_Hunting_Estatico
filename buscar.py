@@ -17,7 +17,7 @@ def analizar(image_path, contador, shiny, tiempo_inicio, ventana):
         pyautogui.click(center_x, center_y)
 
         # Buscar la imagen en la pantalla centrada en la ventana
-        time.sleep(1)
+        time.sleep(1.2)
         location = pyautogui.locateOnScreen(image_path)
 
         # Ver las coordenadas de la ubicación
