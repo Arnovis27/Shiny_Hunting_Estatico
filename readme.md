@@ -25,8 +25,8 @@ alrededor de 6 segundos en realizar todas las acciones antes de realizar el soft
 
 1. **Clona el Repositorio:**
    ```bash
-   git clone https://github.com/TuUsuario/PokemonShinyFinder.git
-   cd PokemonShinyFinder
+   git clone https://github.com/Arnovis27/Shiny_Hunting_Estatico.git
+   cd Shiny_Hunting_Estatico
 
 2. **Instala Dependencias**
     ```bash
