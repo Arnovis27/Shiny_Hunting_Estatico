@@ -11,7 +11,10 @@ Este proyecto está diseñado para ayudarte a encontrar Pokémon Shiny en el jue
 
 ## Configuracion del emulador  
 Para aumentar la velocidad del emulador y funcione mas rapido la busqueda  
-**Options** > **Frame Skip** > **Throttle** > **Other** > **1000**
+**Options** > **Frame Skip** > **Throttle** > **Other** > **1000**  
+**Options** > **Video** > **x2**  
+**Options** > **Video** > **Render Method** > **Direct 3D**  
+**Options** > **Gameboy** > **Real Colors**
 
 
 ## Configuracion del juego  
