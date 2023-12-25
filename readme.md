@@ -1,4 +1,4 @@
-# Proyecto Pokémon Shiny Finder
+# Shiny Hunting Estatico  
 
 Este proyecto está diseñado para ayudarte a encontrar Pokémon Shiny en el juego Pokémon Esmeralda mediante el reconocimiento de imágenes.
 
